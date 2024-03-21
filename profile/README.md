@@ -29,7 +29,6 @@ and many more..
 ### 🕌 Values and Vision
 
 -   **Community First:** We believe in the strength of community and aim to support each other in our professional journeys.
--   **Diversity and Inclusion:** Our mission is to promote diversity in the tech industry, reflecting the wide array of talents and backgrounds in our community.
 -   **Empowerment through Technology:** We leverage technology for social good, from aiding humanitarian causes to building tools that enrich our Islamic practice.
 
 Thank you for being part of Muslims in Tech. Together, we can make a significant impact both within and beyond the tech community! 🌟
