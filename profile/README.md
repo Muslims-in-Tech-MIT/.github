@@ -16,17 +16,17 @@ Welcome to the Muslims in Tech (MIT) GitHub Organization! We are a community of 
 
 and many more..
 
-## Community Engagement
+### 🫂 Community Engagement
 
 -   **Meetups:** We host virtual meetups, allowing members to connect, share, and learn from each other.
 -   **LinkedIn Page:** Follow our [LinkedIn page](https://www.linkedin.com/company/muslimsintech/) for updates and professional networking opportunities.
 
-## How to Get Involved
+### 🎬 How to Get Involved
 
 -   **Contributing:** Check out our GitHub repositories for ongoing projects. We value and appreciate contributions of all kinds – from coding to documentation.
 -   **Discussions and Suggestions:** Feel free to reach out on our Discord server or through GitHub discussions to suggest ideas or ask questions.
 
-## Values and Vision
+### 🕌 Values and Vision
 
 -   **Community First:** We believe in the strength of community and aim to support each other in our professional journeys.
 -   **Diversity and Inclusion:** Our mission is to promote diversity in the tech industry, reflecting the wide array of talents and backgrounds in our community.
