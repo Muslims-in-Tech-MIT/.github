@@ -5,13 +5,13 @@ Welcome to the Muslims in Tech (MIT) GitHub Organization! We are a community of 
 
 ### 🚧 Current Active Projects
 - **Muslims in Tech (Landing)**
-  - **Repository:** https://github.com/Muslims-in-Tech-MIT/muslims-in-tech-landing
+  - **Repository:** [Muslims in Tech - Landing](https://github.com/Muslims-in-Tech-MIT/muslims-in-tech-landing)
   - **Description:** A website built using Next.js and Tailwind CSS to represent our community online.
 - **Hearts for Palestine**
-  - **Repository:** https://github.com/Muslims-in-Tech-MIT/hearts-for-palestine
+  - **Repository:** [Hearts for Palestine](https://github.com/Muslims-in-Tech-MIT/hearts-for-palestine)
   - **Description:** An open-source fundraiser project aimed at supporting our Palestinian brothers and sisters.
 - **QuranVerseBot**
-  - **Repository:** https://github.com/Muslims-in-Tech-MIT/QuranVerseBot
+  - **Repository:** [QuranVerseBot](https://github.com/Muslims-in-Tech-MIT/QuranVerseBot)
   - **Description:** An open-source fundraiser project aimed at supporting our Palestinian brothers and sisters.
 
 and many more..
